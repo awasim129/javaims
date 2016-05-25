@@ -1,0 +1,24 @@
+<jwrapper>
+<BuildOutputFolder>C:\Users\Anas\Documents\NetBeansProjects\InventoryMS\JWrapperBuild</BuildOutputFolder>
+<BundleName></BundleName>
+<SplashPNG>C:\Users\Anas\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00043633916-complete\resources\jwlogo256.png</SplashPNG>
+<BundleLogoPNG>C:\Users\Anas\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00043633916-complete\resources\jwlogo256.png</BundleLogoPNG>
+<InstallType>CurrentUser</InstallType>
+<App>
+  <Name></Name>
+  <LogoPNG>C:\Users\Anas\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00043633916-complete\resources\jwlogo256.png</LogoPNG>
+  <MainClass></MainClass>
+</App>
+<SupportedLanguages>en</SupportedLanguages>
+<SkipWindows>true</SkipWindows>
+<SkipLinux>true</SkipLinux>
+<SkipMacOS>true</SkipMacOS>
+<NoStripJREs>true</NoStripJREs>
+<WindowsElevation>None</WindowsElevation>
+<WindowsElevationUiAccess>true</WindowsElevationUiAccess>
+<JvmOptions>
+</JvmOptions>
+<!-- IMPORTANT place custom content BELOW this comment for compatibility with JW App -->
+
+
+</jwrapper>
