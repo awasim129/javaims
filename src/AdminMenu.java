@@ -16,7 +16,7 @@ import java.awt.event.ActionEvent;
  * @author Anas
  */
 public class AdminMenu extends javax.swing.JFrame {
-ImageIcon iconLogo = new ImageIcon("C://Users/Anas/Desktop/Junk/Bahria_University_Pakistan_Logo.jpg");
+ImageIcon iconLogo = new ImageIcon("C://Users/Anas/Desktop/Junk/hyp.jpg");
     /**
      * Creates new form AdminMenu
      */
@@ -116,7 +116,7 @@ ImageIcon iconLogo = new ImageIcon("C://Users/Anas/Desktop/Junk/Bahria_Universit
                                     .addComponent(jButton4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                     .addComponent(jButton6, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(pic, javax.swing.GroupLayout.DEFAULT_SIZE, 241, Short.MAX_VALUE)
+                .addComponent(pic, javax.swing.GroupLayout.DEFAULT_SIZE, 260, Short.MAX_VALUE)
                 .addContainerGap())
         );
         layout.setVerticalGroup(
