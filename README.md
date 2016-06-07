@@ -1,5 +1,4 @@
-# javaims
-Java Inventory Management System
+# Java Inventory Management System
 
 A simple Java Inventory Management System built by the Students of 3rd semester of BS - IT for their Object Oriented Programming Course.
 
